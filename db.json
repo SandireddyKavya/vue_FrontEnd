@@ -1,0 +1,54 @@
+{
+  "flights": [
+{
+  "id":1,
+  "title": "Qatar",
+  "year": 1996,
+  "location": "From: India",
+  "location1": "To: Amsterdam",
+  "type": "Class-Type: Economy",
+  "Fare1":"Fare in dollars",
+  "Fare": 900,
+  "published": true
+
+},
+{
+  "id":2,
+  "title": "AirIndia",
+  "year": 2000,
+  "location": "From: Mumbai",
+  "location1": "To: Frankfurt",
+  "type": "Class-Type: Business",
+  "Fare": 400,
+  "published": false
+},
+{
+  "id":3,
+  "title": "British Airways",
+  "year": 2005,
+  "location": "From: Delhi",
+  "location1": "To: Miami",
+  "type": "Class-Type: Economy",
+  "Fare": 400,
+  "published": true
+},
+{
+  "id":4,
+  "title": "Emirates",
+  "year": 2011,
+  "location": "From: Banglore",
+  "location1": "To: Egypt",
+  "type": "Class-Type: Business",
+  "Fare": 400,
+  "published": true
+},
+{
+  "id":5,
+  "title": "American Airlines",
+  "year": 2022,
+  "location": "From: Chennai",
+  "location1": "To: Lucknow",
+  "type": "Class-Type: Economy",
+  "Fare": 600,
+  "published": false
+}]}
